@@ -2,7 +2,7 @@
 
 ### 🤓 About Me
 
-I am passionate frontend developer with 6+ years of experience. I love to build complex systems as a hobby.
+I am passionate frontend developer with 7+ years of experience. I love to build complex systems as a hobby.
 
 📝 Check out my blog [here](https://vishwasraj.com)
 
